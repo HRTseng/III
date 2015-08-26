@@ -1,0 +1,179 @@
+body{
+    background-color:black;
+    color:yellow; 
+    font-family:Meiryo, "微軟正黑體", "Microsoft JhengHei";
+}
+
+div#h1{
+    width:100%; 
+    background-color:white;
+	margin: 0px auto;
+    padding-top:0.3%;
+    margin-bottom:1%;
+    text-align:center; 
+}
+
+div#h1 a#word{
+    font-size:3em;
+    text-decoration: none;
+    color:black;
+    font-family:'Archivo Narrow',serif;
+	font-weight: bolder;
+}
+div#h1 a#word span{
+	font-size:2em;	
+	color:blue;
+	font-family:fantasy;
+}
+#pic{
+    width:100%;
+	display: block;	
+    height:500px;
+    margin:auto;
+    background-color:blue;
+}
+
+/*-------------------------- 主體 ----------------------------*/
+
+div#header{
+    width:100%; 
+}
+
+div#container{
+	background-color:black;
+    width:100%;
+    height:58em;
+}
+
+div#menu {    
+	background-color:black;
+    height:100%;
+    width:45%;
+    float:left;
+    margin-top:2%;
+}
+div#sidebar {
+   background-color:black;
+    height:100%;
+    width:55%;
+    float:left;
+    margin-top:2%;  
+}
+
+div#content {
+    height:20em;
+    width:90%;
+    float:left;
+    margin-left:4%;
+    margin-top:0%;
+}
+
+div#footer {
+    background-color:steelblue;    
+	height:16%;	
+    clear:both; 
+    /* text-align:center; */
+}
+.topic{
+	color:white;
+	font-size:17px;
+    line-height:1.8em;	
+}
+div#footer-about{
+	margin:0px auto;
+	color:white;
+	margin-left:38%;
+    float:left;
+    width:200px;
+    line-height:50%;
+}
+div#footer-contact{
+	color:white;   
+	margin-left:auto;
+    float:left;
+	line-height:50%;
+}
+
+
+/*-------------------------- 內文 ----------------------------*/
+/*
+div#content ul {
+    font-weight:bolder; 
+    text-align: left;
+    position:absolute;
+    top:0.5%;
+    margin-right:5%;
+}
+div#content li a.news {
+    font-size:150%; 
+     color:white; 
+    font-family:Meiryo, "微軟正黑體", "Microsoft JhengHei";
+    line-height:120%;
+    text-decoration: none;  
+}*/
+
+div#content div .topic {
+    font-size:120%;  
+    font-family:Meiryo, "微軟正黑體", "Microsoft JhengHei";    
+    margin:auto;
+    padding-left:2px;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;       
+}
+
+
+
+div#content pre {   
+    color:white;
+    font-family:Meiryo, "微軟正黑體", "Microsoft JhengHei";
+    height:21em;
+    width:90%;
+    float:left;
+    margin-left:3%;
+    margin-top:2%;
+    position:relative; 
+}
+/*-------------------------- search ----------------------------*/
+.search{
+     background:url("../images/bg-search-form2.gif");
+     background-position:center;
+     background-repeat:no-repeat;
+     width:250px;
+     height:40px;
+     margin-left:102%;
+     margin-top:-2%;
+     margin-bottom:3px;
+  }
+  
+.search input{
+    background:url("../images/input-search2.gif");
+     background-position:center;
+     background-repeat:no-repeat;
+     width:140px; 
+     padding: 8px 5px;
+     border:0;
+     margin:5px 3px 5px 10px;
+     font-size:14px;
+     font-family:"Myriad Pro";
+     color:#7f7154;
+     
+  }
+  
+.search button{
+     background:url("../images/buttons.gif");
+     background-position: 0 -270px;
+     background-repeat:no-repeat;
+     width:80px; 
+     height:30px;
+     border:0;
+     margin:5px 5px 5px 0;
+     cursor:pointer;
+  }  
+
+div#pic{
+    width:60%;
+    height:100%;
+    margin:auto;
+    background-color:pink;
+}
+

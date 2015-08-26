@@ -1,0 +1,16 @@
+<div id="myCanvasContainer">
+    <canvas width="450" height="300" id="myCanvas">
+        <p>Anything in here will be replaced on browsers that support the canvas element</p>
+         <ul class="cloud" id="cloud">
+		 {%for wd in wds%}
+		    <li class="cn" style="top: {{wd.top}}dpx; left: {{wd.left}}dpx;height: {{wd.height}}dpx;">
+		       <a class="{{wd.cls}}" href="#{{wd.tag}}" 
+		       style ="top:{{wd.top}}dpx;left: {{wd.left}}dpx; font-size: {{wd.size}}dpx; height:{{wd.height}}dpx; 
+		        line-height:{{wd.lh}}dpx;">{{wd.tag}}</a>
+		    </li>
+		{%endfor%}
+		</ul>
+    </canvas>
+  </div>  
+
+                    

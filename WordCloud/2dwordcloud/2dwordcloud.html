@@ -1,0 +1,41 @@
+<html lang="zh_CN">
+    <head>
+        <meta charset="UTF-8">
+        <title>PyTagCloud</title>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script src="wordcloud.js"></script>
+		<style type="text/css">
+            body{
+                background-color: white;
+            }
+
+            a.tag{
+                font-family: 'SimHei', 'Sans';
+                text-decoration: none;
+            }
+
+            li.cnt{
+                overflow: hidden;
+                position: absolute;
+                display: block;
+            }
+
+            ul.cloud{
+                position: relative;
+                display: block;
+                width: 473px;
+                height: 460.0px;
+                overflow: hidden;
+                margin: 0;
+                padding: 0;
+                list-style: none;
+            }
+            a.c10{color:#d71ea2;}                         a.c10:hover{color:#9a1674;}a.c11{color:#f9f3ed;}                         a.c11:hover{color:#d7ac85;}a.c15{color:#e493ec;}                         a.c15:hover{color:#ce36dc;}a.c13{color:#ab9da9;}                         a.c13:hover{color:#7e6d7c;}a.c9{color:#314739;}                         a.c9:hover{color:#233329;}a.c8{color:#dfcfd5;}                         a.c8:hover{color:#ae8694;}a.c14{color:#f8f4f4;}                         a.c14:hover{color:#c49c9d;}a.c12{color:#377636;}                         a.c12:hover{color:#285527;}a.c3{color:#c3e0d8;}                         a.c3:hover{color:#75b7a4;}a.c2{color:#eedbdb;}                         a.c2:hover{color:#c48384;}a.c1{color:#c0d3ac;}                         a.c1:hover{color:#8aad65;}a.c0{color:#7eabe8;}                         a.c0:hover{color:#2773d9;}a.c7{color:#ffffff;}                         a.c7:hover{color:#d8cbb1;}a.c6{color:#802f3a;}                         a.c6:hover{color:#5c222a;}a.c5{color:#e3d1bc;}                         a.c5:hover{color:#c19868;}a.c4{color:#9deab6;}                         a.c4:hover{color:#41d771;}
+        </style>
+    </head>
+    <body>
+        <ul class="cloud">
+            <li class="cnt" style="top: 178px; left: 160px;         height: 120px;"><a class="tag         c0" href="#公文" style="top: 178px;        left: 160px; font-size: 88px; height: 120px;         line-height:109px;">公文</a></li><li class="cnt" style="top: 113px; left: 27px;         height: 96px;"><a class="tag         c1" href="#蓋章" style="top: 113px;        left: 27px; font-size: 70px; height: 96px;         line-height:86px;">蓋章</a></li><li class="cnt" style="top: 113px; left: 191px;         height: 86px;"><a class="tag         c2" href="#一天" style="top: 113px;        left: 191px; font-size: 67px; height: 86px;         line-height:77px;">一天</a></li><li class="cnt" style="top: 196px; left: 14px;         height: 88px;"><a class="tag         c3" href="#負責" style="top: 196px;        left: 14px; font-size: 63px; height: 88px;         line-height:78px;">負責</a></li><li class="cnt" style="top: 281px; left: 125px;         height: 80px;"><a class="tag         c5" href="#主管" style="top: 281px;        left: 125px; font-size: 57px; height: 80px;         line-height:70px;">主管</a></li><li class="cnt" style="top: 42px; left: 125px;         height: 80px;"><a class="tag         c4" href="#這樣" style="top: 42px;        left: 125px; font-size: 57px; height: 80px;         line-height:70px;">這樣</a></li><li class="cnt" style="top: 51px; left: 276px;         height: 71px;"><a class="tag         c6" href="#不是" style="top: 51px;        left: 276px; font-size: 54px; height: 71px;         line-height:62px;">不是</a></li><li class="cnt" style="top: 52px; left: 0px;         height: 70px;"><a class="tag         c7" href="#出包" style="top: 52px;        left: 0px; font-size: 51px; height: 70px;         line-height:61px;">出包</a></li><li class="cnt" style="top: 280px; left: 263px;         height: 65px;"><a class="tag         c8" href="#可以" style="top: 280px;        left: 263px; font-size: 48px; height: 65px;         line-height:57px;">可以</a></li><li class="cnt" style="top: 272px; left: 9px;         height: 63px;"><a class="tag         c9" href="#黨工" style="top: 272px;        left: 9px; font-size: 45px; height: 63px;         line-height:54px;">黨工</a></li><li class="cnt" style="top: 351px; left: 179px;         height: 62px;"><a class="tag         c10" href="#不會" style="top: 351px;        left: 179px; font-size: 43px; height: 62px;         line-height:53px;">不會</a></li><li class="cnt" style="top: 137px; left: 336px;         height: 53px;"><a class="tag         c11" href="#一堆" style="top: 137px;        left: 336px; font-size: 37px; height: 53px;         line-height:45px;">一堆</a></li><li class="cnt" style="top: 184px; left: 367px;         height: 51px;"><a class="tag         c12" href="#就是" style="top: 184px;        left: 367px; font-size: 34px; height: 51px;         line-height:42px;">就是</a></li><li class="cnt" style="top: 0px; left: 168px;         height: 48px;"><a class="tag         c13" href="#基層" style="top: 0px;        left: 168px; font-size: 33px; height: 48px;         line-height:39px;">基層</a></li><li class="cnt" style="top: 91px; left: 398px;         height: 46px;"><a class="tag         c15" href="#層層" style="top: 91px;        left: 398px; font-size: 33px; height: 46px;         line-height:38px;">層層</a></li><li class="cnt" style="top: 232px; left: 368px;         height: 48px;"><a class="tag         c14" href="#時間" style="top: 232px;        left: 368px; font-size: 33px; height: 48px;         line-height:39px;">時間</a></li>
+        </ul>
+    </body>
+</html>

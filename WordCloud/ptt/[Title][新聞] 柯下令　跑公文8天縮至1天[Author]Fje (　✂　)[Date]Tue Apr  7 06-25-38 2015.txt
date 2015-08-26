@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		
+
+<meta name="viewport" content="width=device-width">
+
+<title>[新聞] 柯下令　跑公文8天縮至1天 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all" />
+<meta name="keywords" content="Ptt BBS 批踢踢" />
+<meta name="description" content="
+1.媒體來源:
+蘋果日報
+
+2.完整新聞標題:
+" />
+<meta property="og:site_name" content="Ptt 批踢踢實業坊" />
+<meta property="og:title" content="[新聞] 柯下令　跑公文8天縮至1天" />
+<meta property="og:description" content="
+1.媒體來源:
+蘋果日報
+
+2.完整新聞標題:
+" />
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs-common.css" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/pushstream.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs-print.css" media="print" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/v2.13/bbs.js"></script>
+
+
+		
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32365737-1']);
+  _gaq.push(['_setDomainName', 'ptt.cc']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1428359140.A.34B.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Fje (　✂　)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 柯下令　跑公文8天縮至1天</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue Apr  7 06:25:38 2015</span></div>
+<span class="f2">1.媒體來源:</span>
+蘋果日報
+
+<span class="f2">2.完整新聞標題:</span>
+柯下令　<span class="f5 hl">跑公文</span>8天縮至<span class="f1 b2">1天</span>
+
+<span class="f2">3.完整新聞內文:</span>
+<span class="f5 hl">會議紀錄</span><span class="f1 b2">2小時</span>要出爐「很操」
+
+【陳思豪╱台北報導】台北市長柯文哲明快風格衝擊緩慢
+行政體系，上周他發現北市府一紙公文送到他手上至少要
+蓋<span class="f1 b6">十二個章</span>，他任職台大醫院時僅蓋四個章，因此下令北
+市研考會檢討，希望<span class="f1 b2">印章量減至四到六個</span>，若新措施上路
+，評估跑公文時程能從八天縮短至一天。
+
+蓋章都虛應故事
+
+幕僚透露，柯文哲認為目前行政體系太慢，特別是公文耗
+時過長，未來局處會議結束，<span class="f1 b2">會議紀錄兩小時</span>要出爐，全
+部公文比照最速件辦理，一天就要送至府級（市長室、副
+市長室）。北市府普通公文現需六個工作天處理，速件三
+天、最速件一天。
+
+北市副市長林欽榮指出，北市府原採「<span class="f1 b6">科員政治</span>」，公文
+從最基層到局處首長一路蓋章，送至府級要七至八天，將
+改採「<span class="f1 b2">主管政治</span>」，主管才須負責蓋章。北市研考會主委
+陳銘薰說，統計公文到市長室會蓋十二到十四個章，有些
+只差五分鐘，顯示蓋章虛應故事，耗時在送公文途中。
+
+北市研考會將不定期檢查，<span class="f2 hl">不符一天送至府級的公文，負</span>
+<span class="f2 hl">責承辦人員可能遭記申誡或影響考績</span>。但北市副秘書長李
+文英也強調，<span class="f1 b6">公文體例由行政院訂定、全國有統一做法</span>，
+仍待開會討論北市規劃是否有衝突。
+
+北市府基層反應兩極。有人認為可加快公文流程，但「會
+變得很操」；也有人強調每人蓋章代表層層負責，多些人
+把關，耗時但較不會出包。
+
+<span class="f1 b2">妻驕傲「做自己」</span>
+
+此外，自柯文哲上任就很少更新臉書的市長夫人陳佩琪，
+昨發文（goo.gl/v7Hdo1）指告誡自己要低調，少發文、
+不和選戰才認識者私下碰面，除非柯要求才出席活動；她
+自認做到選前承諾，不影響或干涉柯施政、人事，堅持做
+自己。
+
+<span class="f2">4.完整新聞連結 (或短網址):</span>
+<a href="http://m.appledaily.com.tw/appledaily/article/headline/20150407/36479471/" target="_blank" rel="nofollow">http://m.appledaily.com.tw/appledaily/article/headline/20150407/36479471/</a>
+
+--
+
+<span class="b2">                                                  </span>
+<span class="f1 b2"> 柯文哲：「我是</span><span class="b2 hl">台灣</span><span class="f1 b2">人也是</span><span class="f1 b2 hl">中國</span><span class="f1 b2">人。」               </span>
+<span class="f0 b2 hl">       </span><a href="https://tinyurl.com/mhmj9h4" target="_blank" rel="nofollow"><span class="f0 b2 hl">https://tinyurl.com/mhmj9h4</span></a><span class="b2"> 2015.4.6《PTT》</span>
+<span class="b6">                                                  </span>
+<span class="f1 b6"> 馬英九：「我是</span><span class="b6 hl">台灣</span><span class="f1 b6">人也是</span><span class="f1 b6 hl">中國</span><span class="f1 b6">人。」               </span>
+<span class="f0 b6 hl">    </span><span class="f5 b6"> </span><a href="https://tinyurl.com/m2b87ee" target="_blank" rel="nofollow"><span class="f0 b6 hl">https://tinyurl.com/m2b87ee</span></a><span class="f5 b6"> </span><span class="b6">2006.7.10《TIME》</span> <a href="https://i.imgur.com/bb6O7xO.jpg" target="_blank" rel="nofollow"><span class="f0">https://i.imgur.com/bb6O7xO.jpg</span></a>
+<div class="richcontent"><img src="https://i.imgur.com/bb6O7xO.jpg" alt="" /></div>
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.55.231.3
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1428359140.A.34B.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1428359140.A.34B.html</a>
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">tasogare</span><span class="f3 push-content">: 作秀</span><span class="push-ipdatetime"> 04/07 06:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ericeric91</span><span class="f3 push-content">: 一樓很急</span><span class="push-ipdatetime"> 04/07 06:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ctjh900805</span><span class="f3 push-content">: 黨工早</span><span class="push-ipdatetime"> 04/07 06:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">supa</span><span class="f3 push-content">: 以後出事會有人怪說沒時間看，是下屬幫蓋章</span><span class="push-ipdatetime"> 04/07 06:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">w3160828</span><span class="f3 push-content">: 公文耗時就不會出包? 還是官官相護出包不敢曝光?</span><span class="push-ipdatetime"> 04/07 06:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Guren8000</span><span class="f3 push-content">: 耗較不會出包......？</span><span class="push-ipdatetime"> 04/07 06:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jlswfe</span><span class="f3 push-content">: 天阿  黨工24hr在線嗎XD</span><span class="push-ipdatetime"> 04/07 06:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">krishuang</span><span class="f3 push-content">: 黨工早上有加給？</span><span class="push-ipdatetime"> 04/07 06:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nicejelly</span><span class="f3 push-content">: 會議記錄兩小時說真的有點硬</span><span class="push-ipdatetime"> 04/07 06:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MattiaPasini</span><span class="f3 push-content">: 蓋這麼多章 到時出事才方便找余文啊^^</span><span class="push-ipdatetime"> 04/07 06:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sleeeve</span><span class="f3 push-content">: 推簽名檔  兩岸統一指日可待  21世紀是中國人的世紀</span><span class="push-ipdatetime"> 04/07 06:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">opqr9988</span><span class="f3 push-content">: 1f領720加班費幫你算了</span><span class="push-ipdatetime"> 04/07 06:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dostey</span><span class="f3 push-content">: 柯P好笨歐!!人家郝會花市長的層層蓋章,各個有責,出事才不</span><span class="push-ipdatetime"> 04/07 06:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hitlerx</span><span class="f3 push-content">: 多蓋一堆章是有把到什麼關啊...</span><span class="push-ipdatetime"> 04/07 06:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Comebuy</span><span class="f3 push-content">: \⊙▽⊙/\⊙▽⊙/\⊙▽⊙/</span><span class="push-ipdatetime"> 04/07 06:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hank11235813</span><span class="f3 push-content">: 你的圖色讓字很不清楚</span><span class="push-ipdatetime"> 04/07 06:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">memory2007</span><span class="f3 push-content">: 這樣出包火就少好多人擋火 kmt上任一定改回來</span><span class="push-ipdatetime"> 04/07 06:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">plice</span><span class="f3 push-content">: 這種事快會比較好嗎…</span><span class="push-ipdatetime"> 04/07 06:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hitlerx</span><span class="f3 push-content">: 像你一個衛哨會放外人進去看阿帕契.改設三個衛哨就能擋?</span><span class="push-ipdatetime"> 04/07 06:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qliver</span><span class="f3 push-content">: 減少科層化 增加效率</span><span class="push-ipdatetime"> 04/07 06:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">owen5611</span><span class="f3 push-content">: 智障蛆蛆可以出來顯露智商了</span><span class="push-ipdatetime"> 04/07 06:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">supa</span><span class="f3 push-content">: 行賄三個讓三個人有錢一點比一個好，均富一下(誤</span><span class="push-ipdatetime"> 04/07 06:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">krishuang</span><span class="f3 push-content">: 馬囧：我都不知道</span><span class="push-ipdatetime"> 04/07 06:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Syoshinsya</span><span class="f3 push-content">: 黨工早  XD</span><span class="push-ipdatetime"> 04/07 06:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">userpeter</span><span class="f3 push-content">: 黨工一早就要上班帶風向，好辛苦唷~ 呵呵</span><span class="push-ipdatetime"> 04/07 06:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sopi</span><span class="f3 push-content">: 不會出包勒 看看英九蓋幾個啊</span><span class="push-ipdatetime"> 04/07 06:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">userpeter</span><span class="f3 push-content">: 話說才減少不到一半的印章數，就可以8天變1天？</span><span class="push-ipdatetime"> 04/07 06:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 美和市蓋到十來個章 結果還是把責任推到科員阿</span><span class="push-ipdatetime"> 04/07 06:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cfceo</span><span class="f3 push-content">: 那以後就不用開會出差，每天在辦公室批公文就好啦！這真的</span><span class="push-ipdatetime"> 04/07 06:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cfceo</span><span class="f3 push-content">: 是做秀</span><span class="push-ipdatetime"> 04/07 06:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chiwang</span><span class="f3 push-content">: 1F 你為何這樣說呢...好好奇你的心理想法...</span><span class="push-ipdatetime"> 04/07 06:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Mike9</span><span class="f3 push-content">: 很多時候能不能快不是承辦人的問題</span><span class="push-ipdatetime"> 04/07 06:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gg889g8</span><span class="f3 push-content">: 馬 富邦案也跑很快呀 XDDDDDDDDDDDDDDDD</span><span class="push-ipdatetime"> 04/07 06:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s899456</span><span class="f3 push-content">: 八倍界王拳!?</span><span class="push-ipdatetime"> 04/07 06:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: c大的前提是需批示公文增加 可是為啥會增加??</span><span class="push-ipdatetime"> 04/07 06:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aljust12</span><span class="f3 push-content">: 【制訂】【審核】【會簽】【核准】　就這概念吧？</span><span class="push-ipdatetime"> 04/07 06:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">EggAcme</span><span class="f3 push-content">: 明明一堆公文放長官桌上 人在也要等好幾天才批</span><span class="push-ipdatetime"> 04/07 06:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ayler88</span><span class="f3 push-content">: 以前蓋這麼多章 還不是出一堆包</span><span class="push-ipdatetime"> 04/07 06:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ayler88</span><span class="f3 push-content">: 台大醫院蓋比較少章 出包有比較多?</span><span class="push-ipdatetime"> 04/07 06:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cfceo</span><span class="f3 push-content">: 公務體系的設計是防弊，一天跑完公文，是想學張慶忠30秒偷</span><span class="push-ipdatetime"> 04/07 06:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aljust12</span><span class="f3 push-content">: 再多關都是會簽的 除非必要不然浪費時間 遞交程序耗時</span><span class="push-ipdatetime"> 04/07 06:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">b9602220</span><span class="f3 push-content">: 章多一點，背黑鍋的人也多一點</span><span class="push-ipdatetime"> 04/07 06:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">momomom</span><span class="f3 push-content">: 主管蓋章出事只要死主管就好了不是不錯嗎</span><span class="push-ipdatetime"> 04/07 06:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cfceo</span><span class="f3 push-content">: 渡？什麼事要這麼急著過關？</span><span class="push-ipdatetime"> 04/07 06:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">darkiori</span><span class="f3 push-content">: 黨工領五百要經過幾個章?</span><span class="push-ipdatetime"> 04/07 06:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cue</span><span class="f3 push-content">: 都慢16年了，有差這7天嗎？</span><span class="push-ipdatetime"> 04/07 06:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rey123123</span><span class="f3 push-content">: 一個章就是一道防火牆阿 顆顆</span><span class="push-ipdatetime"> 04/07 06:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 主管負責阿 如果想要偷渡啥 美和市一天跑十幾個章喔</span><span class="push-ipdatetime"> 04/07 06:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hitlerx</span><span class="f3 push-content">: 公務體系的設計是防弊 wwww 這幾年的例子,顯然設計失敗了</span><span class="push-ipdatetime"> 04/07 06:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 防火牆自己說說就好啦 有承辦人背書 會辦很多隨便蓋蓋</span><span class="push-ipdatetime"> 04/07 06:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">felix1017</span><span class="f3 push-content">: 阿不多一點人蓋  就沒有余文可以找啦</span><span class="push-ipdatetime"> 04/07 06:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cfceo</span><span class="f3 push-content">: 搞這樣只是讓外行人爽！實際上就是好笑！增加上班時間</span><span class="push-ipdatetime"> 04/07 06:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mikejr</span><span class="f3 push-content">: 採主管政治...馬英九：幹</span><span class="push-ipdatetime"> 04/07 06:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 減少蓋章 會辦人員少蓋幾個章 主管蓋章為啥會增加?</span><span class="push-ipdatetime"> 04/07 06:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bimmers0</span><span class="f3 push-content">: 冗員：薪水要調8倍囉？公務員辛苦8倍耶！</span><span class="push-ipdatetime"> 04/07 06:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 如不會增加 上班時間為啥會增加??沒要承辦人幾天生文</span><span class="push-ipdatetime"> 04/07 06:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ian0119</span><span class="f3 push-content">: 出事找第一個蓋的開刀</span><span class="push-ipdatetime"> 04/07 06:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kevin70</span><span class="f3 push-content">: 自動程式?柯標題的直接有套件回覆機器人?</span><span class="push-ipdatetime"> 04/07 06:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cfceo</span><span class="f3 push-content">: 一關慢，不就通通慢，那等文批好不就半夜！你柯文哲不在辦</span><span class="push-ipdatetime"> 04/07 06:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 承辦人員本就出事跑不掉的 現在是給主官責任更大</span><span class="push-ipdatetime"> 04/07 06:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cfceo</span><span class="f3 push-content">: 公室出門做秀，阿不就等你回來批</span><span class="push-ipdatetime"> 04/07 06:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nextpage</span><span class="f3 push-content">: 這幾十年來公部門蓋這麼多章也沒讓民眾覺得有效率</span><span class="push-ipdatetime"> 04/07 06:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 柯p自己公文就不過夜嚕 就看底下局處長做不做得到</span><span class="push-ipdatetime"> 04/07 06:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nextpage</span><span class="f3 push-content">: 如果這流程是有檢討的空間,當然必須進行改革</span><span class="push-ipdatetime"> 04/07 06:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cfceo</span><span class="f3 push-content">: 當每份公文都是最速件？</span><span class="push-ipdatetime"> 04/07 06:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DK1121</span><span class="f3 push-content">: 主管：他xx的！以後出包要怎樣推給基層。</span><span class="push-ipdatetime"> 04/07 06:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 剛看了一下原文 是要最速件一天送府級 沒說府級一天批</span><span class="push-ipdatetime"> 04/07 06:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">taikonkimo</span><span class="f3 push-content">: 這樣反而是好事 要主管負責 本就不可以時間過於嚴苛</span><span class="push-ipdatetime"> 04/07 06:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nedetdo</span><span class="f3 push-content">: 一樓有誤餐費嗎</span><span class="push-ipdatetime"> 04/07 06:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">BBQ2591</span><span class="f3 push-content">: 如果時限內沒達成就Fire掉 我才相信真的有用</span><span class="push-ipdatetime"> 04/07 06:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyringcha</span><span class="f3 push-content">: 黨工現在都24小時輪班的哈哈</span><span class="push-ipdatetime"> 04/07 06:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">li11223344</span><span class="f3 push-content">: 主管去開會怎辦?中場休息線上簽嗎…</span><span class="push-ipdatetime"> 04/07 06:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sazdj</span><span class="f3 push-content">: 科科 蓋那麼多章 會仔細看公文內容的官根本沒半個</span><span class="push-ipdatetime"> 04/07 06:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cychine</span><span class="f3 push-content">: 黨工一早就上班 真血汗 XDD</span><span class="push-ipdatetime"> 04/07 06:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mocloud</span><span class="f3 push-content">: 基層公務員每天打公文就飽了，可以增加打公文職缺</span><span class="push-ipdatetime"> 04/07 07:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">redken</span><span class="f3 push-content">: 有時候光開會就不止2小時，要2小時內生出來記錄，那至少要</span><span class="push-ipdatetime"> 04/07 07:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ndr</span><span class="f3 push-content">: 先看柯鎮惡自己有沒辦法會議紀錄兩小時出爐吧.有選票就屌大?</span><span class="push-ipdatetime"> 04/07 07:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">redken</span><span class="f3 push-content">: 要3-5個分割內容一起來打紀錄，這樣就不知道要幾個章了</span><span class="push-ipdatetime"> 04/07 07:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ndr</span><span class="f3 push-content">: 再這樣搞下去,以後市府剩柯鎮惡一個人也不意外</span><span class="push-ipdatetime"> 04/07 07:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ndr</span><span class="f3 push-content">: 然後他的訓練成果全被別的政府單位跟公司行號免費接收</span><span class="push-ipdatetime"> 04/07 07:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dreamwork112</span><span class="f3 push-content">: 每人蓋章代表層層負責...？我笑了</span><span class="push-ipdatetime"> 04/07 07:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">redken</span><span class="f3 push-content">: 然後一天要跑完，還要看統整內容和單位主管在不在忙不忙</span><span class="push-ipdatetime"> 04/07 07:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mocloud</span><span class="f3 push-content">: 那以後民眾辦文件也不用收速件處理費全部當天出來</span><span class="push-ipdatetime"> 04/07 07:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wbad18990</span><span class="f3 push-content">: 好操阿@@</span><span class="push-ipdatetime"> 04/07 07:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">redken</span><span class="f3 push-content">: 光是這樣承辦人就單這個案子就卡死了，其他事情還用做嗎?</span><span class="push-ipdatetime"> 04/07 07:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sulunpas</span><span class="f3 push-content">: 民營公司開完會決議整理一下就送到主管桌上了</span><span class="push-ipdatetime"> 04/07 07:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">desho</span><span class="f3 push-content">: &#34;耗時但較不會出包&#34; 那怎麼會有大巨蛋美河市  我笑了</span><span class="push-ipdatetime"> 04/07 07:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sulunpas</span><span class="f3 push-content">: 誰說做不到？爛草莓</span><span class="push-ipdatetime"> 04/07 07:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kjames1014</span><span class="f3 push-content">: 會議紀錄的確TMD耗時間，如果長官又是喜歡挑小毛病的</span><span class="push-ipdatetime"> 04/07 07:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kjames1014</span><span class="f3 push-content">: ，光一個會議紀錄就可以做兩三小時</span><span class="push-ipdatetime"> 04/07 07:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">XDD</span><span class="f3 push-content">: 黨工腦殘無上限</span><span class="push-ipdatetime"> 04/07 07:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kjames1014</span><span class="f3 push-content">: 我覺得影響最大的還是基層啊，主管負責蓋章而已</span><span class="push-ipdatetime"> 04/07 07:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">riker729</span><span class="f3 push-content">: 蓋一堆章毫無作用 最大的代表就是馬英九 什麼都不關他事</span><span class="push-ipdatetime"> 04/07 07:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ndr</span><span class="f3 push-content">: 惱蠶吳尚縣? 柯匹是哪個黨的?</span><span class="push-ipdatetime"> 04/07 07:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">anper</span><span class="f3 push-content">: 智障9.2幹你娘生兒子沒屁眼</span><span class="push-ipdatetime"> 04/07 07:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mojingri</span><span class="f3 push-content">: 如果北市八萬公務員撐得了四年，四年後就不知道換誰哭了</span><span class="push-ipdatetime"> 04/07 07:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hohohoha</span><span class="f3 push-content">: 蓋一堆章有用嘛 出事還不是下屬承擔</span><span class="push-ipdatetime"> 04/07 07:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mojingri</span><span class="f3 push-content">: 一堆馬狗語言要程序就威嚇法律紅線要效率就打擊士氣</span><span class="push-ipdatetime"> 04/07 07:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Shift2</span><span class="f3 push-content">: 說要層層負責 那些弊案誰來負責</span><span class="push-ipdatetime"> 04/07 07:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ndr</span><span class="f3 push-content">: 說做不到爛草莓的要不要從枷州回台灣去為柯鎮惡服務看看?</span><span class="push-ipdatetime"> 04/07 07:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BBQ2591</span><span class="f3 push-content">: 現實:我一個月是領你多少錢 要被你這樣操 別縣市一樣公</span><span class="push-ipdatetime"> 04/07 07:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BBQ2591</span><span class="f3 push-content">: 務員 你是在玩我捏</span><span class="push-ipdatetime"> 04/07 07:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sca133</span><span class="f3 push-content">: 螞99表示 這ㄧ切都跟我無關 我沒簽名洩洩</span><span class="push-ipdatetime"> 04/07 07:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">freedom1208</span><span class="f3 push-content">: 一早就有蛆噴屎</span><span class="push-ipdatetime"> 04/07 07:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tritonchang</span><span class="f3 push-content">: 官僚公司化。柯腦袋唸過多少管理書啊！</span><span class="push-ipdatetime"> 04/07 07:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cabron</span><span class="f3 push-content">: 去你媽的「耗時但不會出包」那今天的大巨蛋和美河市怎麼出</span><span class="push-ipdatetime"> 04/07 07:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wbad18990</span><span class="f3 push-content">: 柯還是要謹慎點，有時一個字的誤差影響很大</span><span class="push-ipdatetime"> 04/07 07:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ebod221</span><span class="f3 push-content">: 有人強調每人蓋章代表層層負責，多些人把關，耗時但較不</span><span class="push-ipdatetime"> 04/07 07:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jyekid</span><span class="f3 push-content">: 這種新聞看看就好 公文有分等級 重要性 不太可能通通比辦</span><span class="push-ipdatetime"> 04/07 07:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ebod221</span><span class="f3 push-content">: 會出包?我怎麼覺得時常在出包</span><span class="push-ipdatetime"> 04/07 07:23
+</span></div><span class="f2">※ 編輯: Fje (36.55.231.3), 04/07/2015 07:24:43
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">szigzag</span><span class="f3 push-content">: 黨工早</span><span class="push-ipdatetime"> 04/07 07:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iWatch2</span><span class="f3 push-content">: 果然都有內文沒看亂帶風向的</span><span class="push-ipdatetime"> 04/07 07:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gn159263</span><span class="f3 push-content">: 這標題殺小…</span><span class="push-ipdatetime"> 04/07 07:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yfme</span><span class="f3 push-content">: 根本就做不到，下這種命令</span><span class="push-ipdatetime"> 04/07 07:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TohnoMinagi</span><span class="f3 push-content">: 平常滿嘴競爭力跟企業化的藍教徒遇到柯P又轉彎了XDD</span><span class="push-ipdatetime"> 04/07 07:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JesseShih</span><span class="f3 push-content">: ㄊㄨㄟ</span><span class="push-ipdatetime"> 04/07 07:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DarkerDuck</span><span class="f3 push-content">: 黨工這麼早上班，國家有救了</span><span class="push-ipdatetime"> 04/07 07:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JesseShih</span><span class="f3 push-content">: 推...</span><span class="push-ipdatetime"> 04/07 07:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Riya520</span><span class="f3 push-content">: 其實章蓋得多也只是形式而已</span><span class="push-ipdatetime"> 04/07 07:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">twpost</span><span class="f3 push-content">: 經手人都要蓋章,出包時,主管才能把責任推給蓋過章的下屬</span><span class="push-ipdatetime"> 04/07 07:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hata5566</span><span class="f3 push-content">: 想太多，有些公文要查核檢驗等，一天達市長室蒙眼蓋章？</span><span class="push-ipdatetime"> 04/07 07:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ilovesnow</span><span class="f3 push-content">: 是說有人放假怎麼辦</span><span class="push-ipdatetime"> 04/07 07:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tuscany</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 04/07 07:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tenka92417</span><span class="f3 push-content">: 每個文都玩最速件，如果業務量少這樣玩不反對，業務量</span><span class="push-ipdatetime"> 04/07 07:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tenka92417</span><span class="f3 push-content">: 大的局處室這樣玩，底下承辦人可能會想死</span><span class="push-ipdatetime"> 04/07 07:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TrueX67</span><span class="f3 push-content">: 每人蓋章代表層層負責，多些人把關，耗時但較不會出包。</span><span class="push-ipdatetime"> 04/07 07:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TrueX67</span><span class="f3 push-content">: 不適用於KMT治理的地方..</span><span class="push-ipdatetime"> 04/07 07:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">catcher411</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 04/07 07:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vencil</span><span class="f3 push-content">: 上面帶風向的是有沒有出社會...居然還會問有人請假怎麼辦</span><span class="push-ipdatetime"> 04/07 07:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">elibra01</span><span class="f3 push-content">: 耗時不出包？</span><span class="push-ipdatetime"> 04/07 07:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tenka92417</span><span class="f3 push-content">: 局處室主管如果是那種縣市長帶過來的空降部隊，這樣</span><span class="push-ipdatetime"> 04/07 07:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">j9145</span><span class="f3 push-content">: 誰說蓋章就要負責的? BY 馬英九</span><span class="push-ipdatetime"> 04/07 07:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tenka92417</span><span class="f3 push-content">: 玩就更美了</span><span class="push-ipdatetime"> 04/07 07:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hekate</span><span class="f3 push-content">: 業務量多一天是有點硬拉  三天也是最多極限</span><span class="push-ipdatetime"> 04/07 07:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mocloud</span><span class="f3 push-content">: 建議所有公文機關都比照辦理，申辦護照全都當天領件</span><span class="push-ipdatetime"> 04/07 07:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mocloud</span><span class="f3 push-content">: 公務機關</span><span class="push-ipdatetime"> 04/07 07:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ryanworld</span><span class="f3 push-content">: 柯文哲那個明明就是去年三月的東西</span><span class="push-ipdatetime"> 04/07 07:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">holmoak</span><span class="f3 push-content">: 層層負責 最後變成基層負責...</span><span class="push-ipdatetime"> 04/07 07:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bqbq</span><span class="f3 push-content">: 太有效率了吧</span><span class="push-ipdatetime"> 04/07 07:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">atyin</span><span class="f3 push-content">: 八天變一天只是記者自己推測吧，爛標題。</span><span class="push-ipdatetime"> 04/07 07:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">darkmonster</span><span class="f3 push-content">: 1轉2轉3轉4轉~~</span><span class="push-ipdatetime"> 04/07 07:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wayxin</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 04/07 07:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">KaedeRed</span><span class="f3 push-content">: 黨工</span><span class="push-ipdatetime"> 04/07 07:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">guepard</span><span class="f3 push-content">: 多些人選墊背不好嗎</span><span class="push-ipdatetime"> 04/07 07:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BBQ2591</span><span class="f3 push-content">: 既然一堆人覺得蓋章是形式 那最好都不要蓋 直接送市長室</span><span class="push-ipdatetime"> 04/07 07:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BBQ2591</span><span class="f3 push-content">:  就不要再哭哭好累倦勤</span><span class="push-ipdatetime"> 04/07 07:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tonyscat</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 04/07 07:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kakeru2980</span><span class="f3 push-content">: 操得好啊！領我們稅的公務員憑什麼輕鬆</span><span class="push-ipdatetime"> 04/07 07:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">frgh</span><span class="f3 push-content">: 原來基層員工的工作只有公文</span><span class="push-ipdatetime"> 04/07 07:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">utn875</span><span class="f3 push-content">: 一般私企業，跑文速度會這麼慢？</span><span class="push-ipdatetime"> 04/07 07:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JI3G4QU4C96</span><span class="f3 push-content">: 黨工早安，吃早餐了嗎ˊˇˋ</span><span class="push-ipdatetime"> 04/07 07:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">maxn86</span><span class="f3 push-content">: 章蓋多一點 到時候出包才有替死鬼可以挑阿</span><span class="push-ipdatetime"> 04/07 07:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">suhaw</span><span class="f3 push-content">: 既然黨工....那我一定要推了</span><span class="push-ipdatetime"> 04/07 07:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyleo</span><span class="f3 push-content">: 真的只有沒出過社會的魯宅會爽,在一般公司也沒人這樣搞</span><span class="push-ipdatetime"> 04/07 07:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lianhua</span><span class="f3 push-content">: 平常章蓋這麼多 出事也沒人出來負責阿</span><span class="push-ipdatetime"> 04/07 07:56
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wingcake</span><span class="f3 push-content">: 選戰還沒到黨工就開始輪班了？</span><span class="push-ipdatetime"> 04/07 07:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skyleo</span><span class="f3 push-content">: 但如果是進不了大公司的魯蛇,聽不懂我在講啥的例外</span><span class="push-ipdatetime"> 04/07 07:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DarkerDuck</span><span class="f3 push-content">: (記者)評估跑公文時程能從八天縮短至一天???誰評估???</span><span class="push-ipdatetime"> 04/07 07:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seed1132001</span><span class="f3 push-content">: ㄎㄎ</span><span class="push-ipdatetime"> 04/07 07:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">xyz1981</span><span class="f3 push-content">: 拿台大醫院類比市府是在有點搞笑</span><span class="push-ipdatetime"> 04/07 07:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">poister</span><span class="f3 push-content">: 太猛</span><span class="push-ipdatetime"> 04/07 07:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smt3457</span><span class="f3 push-content">: 1樓是眼紅嗎？</span><span class="push-ipdatetime"> 04/07 07:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">windangellin</span><span class="f3 push-content">: 基層蓋章的公文都看長官要怎麼辦的，章是可以省了</span><span class="push-ipdatetime"> 04/07 07:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pagenotfound</span><span class="f3 push-content">: 蓋章變少當然監督審核變少,速度當然變快</span><span class="push-ipdatetime"> 04/07 08:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">encoreb</span><span class="f3 push-content">: 操啥？會議紀錄印章流程還不是給替代役跑？公務員照爽過</span><span class="push-ipdatetime"> 04/07 08:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyleo</span><span class="f3 push-content">: 其實章就算省起來,時間也不會變短啊~</span><span class="push-ipdatetime"> 04/07 08:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pagenotfound</span><span class="f3 push-content">: 但是柯P利用公開透明的方式引進外來監督</span><span class="push-ipdatetime"> 04/07 08:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tenka92417</span><span class="f3 push-content">: 一般私企業，跑公文更慢，比如說某天跟某家購物平台，</span><span class="push-ipdatetime"> 04/07 08:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pagenotfound</span><span class="f3 push-content">: 當每個公務員都知道自己這份公文會被丟上網</span><span class="push-ipdatetime"> 04/07 08:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tenka92417</span><span class="f3 push-content">: 哥這邊發調查函他老大還是慢慢來，理由是要蓋章跑流程</span><span class="push-ipdatetime"> 04/07 08:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pagenotfound</span><span class="f3 push-content">: 即便控制點變少,但是監督不一定會變少</span><span class="push-ipdatetime"> 04/07 08:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tritonchang</span><span class="f3 push-content">: <a href="http://imgur.com/rYH4qhC" target="_blank" rel="nofollow">http://imgur.com/rYH4qhC</a></span><span class="push-ipdatetime"> 04/07 08:02
+</span></div><div class="richcontent"><img src="//i.imgur.com/rYH4qhC.jpg" alt="" /></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tenka92417</span><span class="f3 push-content">: 通常要3到4週才會拿到書面陳述歐</span><span class="push-ipdatetime"> 04/07 08:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tritonchang</span><span class="f3 push-content">: 說到做到的男人</span><span class="push-ipdatetime"> 04/07 08:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GFDS</span><span class="f3 push-content">: 看不太懂 意思是全部最速件嗎??</span><span class="push-ipdatetime"> 04/07 08:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">p2p8ppp</span><span class="f3 push-content">: 又有人要離職ㄌ</span><span class="push-ipdatetime"> 04/07 08:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">steve1012</span><span class="f3 push-content">: 蓋那麼多章還是出包啊</span><span class="push-ipdatetime"> 04/07 08:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">steve1012</span><span class="f3 push-content">: 加速絕對是好事</span><span class="push-ipdatetime"> 04/07 08:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yhlty</span><span class="f3 push-content">: 推！！</span><span class="push-ipdatetime"> 04/07 08:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zoie98</span><span class="f3 push-content">: 以前蓋這麼多章 還不是出一堆包+1</span><span class="push-ipdatetime"> 04/07 08:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ewqewq123123</span><span class="f3 push-content">: 反正蓋章不用負責，都是簽名章，不是簽名，不如不蓋</span><span class="push-ipdatetime"> 04/07 08:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nsjmy</span><span class="f3 push-content">: 早該如此</span><span class="push-ipdatetime"> 04/07 08:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">twpost</span><span class="f3 push-content">: 大巨蛋案 馬英九都可以說自己完全不知道了...</span><span class="push-ipdatetime"> 04/07 08:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">makapaka</span><span class="f3 push-content">: 標哥的公文一天就可以辦好，已有前例，自找的</span><span class="push-ipdatetime"> 04/07 08:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyleo</span><span class="f3 push-content">: 討論到現在只能證明一堆酸民的程度真的很差ㄎㄎ</span><span class="push-ipdatetime"> 04/07 08:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skyleo</span><span class="f3 push-content">: 柯P以前在台大醫院當個主任而已,公文的章當然不會多</span><span class="push-ipdatetime"> 04/07 08:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">makapaka</span><span class="f3 push-content">: 還在騙人沒出社會啊，kmt已經示範標哥效率給看了，柯p</span><span class="push-ipdatetime"> 04/07 08:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">makapaka</span><span class="f3 push-content">: 還晚了一步耶，一般公司沒人這樣搞，我們的馬政府就是</span><span class="push-ipdatetime"> 04/07 08:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skyleo</span><span class="f3 push-content">: 你叫台大醫院院長來問問,也不會比市府的章少到哪裡去XD</span><span class="push-ipdatetime"> 04/07 08:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">makapaka</span><span class="f3 push-content">: 辦得到啊</span><span class="push-ipdatetime"> 04/07 08:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">beek</span><span class="f3 push-content">: 仇視台灣工人仇視成這樣，什麼都急著要，還要扣他們加班費</span><span class="push-ipdatetime"> 04/07 08:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ivyclover</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 04/07 08:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BBQ2591</span><span class="f3 push-content">: 一般公司跑流程更慢 但那是累積多年經驗出來的防錯SOP</span><span class="push-ipdatetime"> 04/07 08:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">makapaka</span><span class="f3 push-content">: 扯台大醫院幹嘛，政府機關就找政府機關啊，人家法務部就</span><span class="push-ipdatetime"> 04/07 08:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">makapaka</span><span class="f3 push-content">: 可以一天跑完標哥公文</span><span class="push-ipdatetime"> 04/07 08:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">beek</span><span class="f3 push-content">: 柯市府幹嘛蓋那麼多章？其實只要柯蓋章就好了</span><span class="push-ipdatetime"> 04/07 08:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">beek</span><span class="f3 push-content">: 其他專家，主任都是掛名拿薪水而已，凡事柯說了算</span><span class="push-ipdatetime"> 04/07 08:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">beek</span><span class="f3 push-content">: 想到柯是漂流木專家就覺得好笑</span><span class="push-ipdatetime"> 04/07 08:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skyleo</span><span class="f3 push-content">: 沒看內文柯P說以前在台大醫院只有4個章?</span><span class="push-ipdatetime"> 04/07 08:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a9564208</span><span class="f3 push-content">: 以後就是只要主管負責不殺小兵了</span><span class="push-ipdatetime"> 04/07 08:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skyleo</span><span class="f3 push-content">: 當科長或主任,公文到手上差不多就3個章,院長市長就沒辦法</span><span class="push-ipdatetime"> 04/07 08:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">riches</span><span class="f3 push-content">: 每人蓋章代表層層負責...哈哈哈哈</span><span class="push-ipdatetime"> 04/07 08:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a9564208</span><span class="f3 push-content">: 柯P以前在台大公文也是要送到院長級的，不要再秀下限了</span><span class="push-ipdatetime"> 04/07 08:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alex90236</span><span class="f3 push-content">: 黨工早班有加給嘛</span><span class="push-ipdatetime"> 04/07 08:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GFDS</span><span class="f3 push-content">: 台大醫院是柯p先講的啊 什麼扯台大醫院幹嘛</span><span class="push-ipdatetime"> 04/07 08:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">DevilCool</span><span class="f3 push-content">: 防他媽弊~每次出事還不拉一堆基層余文出來擋</span><span class="push-ipdatetime"> 04/07 08:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">coolda</span><span class="f3 push-content">: &#34;會議紀錄&#34; 不是該會議結束立即出來 給與會人員畫押嗎?</span><span class="push-ipdatetime"> 04/07 08:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skyleo</span><span class="f3 push-content">: 柯P以前在台大又不是院長,連流程都不懂還有臉講別人ㄎㄎ</span><span class="push-ipdatetime"> 04/07 08:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asd00726</span><span class="f3 push-content">: ㄎㄎㄎㄎㄎˉ</span><span class="push-ipdatetime"> 04/07 08:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">coolda</span><span class="f3 push-content">: 還有兩小時可以搞 = =</span><span class="push-ipdatetime"> 04/07 08:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skyleo</span><span class="f3 push-content">: 他真的要縮短就是中間那些幕僚長官免核章,順便架空</span><span class="push-ipdatetime"> 04/07 08:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alexyen0606</span><span class="f3 push-content">: 黨工食糞去</span><span class="push-ipdatetime"> 04/07 08:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Syffence</span><span class="f3 push-content">: 會反對的都不會是基層 基層可以不蓋章幹嘛反</span><span class="push-ipdatetime"> 04/07 08:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skyleo</span><span class="f3 push-content">: 時間一久那些高職等的涼缺大概也沒必要留了XD</span><span class="push-ipdatetime"> 04/07 08:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Syffence</span><span class="f3 push-content">: 不能把責任往下推 余文變少了 很不方便的人才會反對</span><span class="push-ipdatetime"> 04/07 08:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">happyennovy</span><span class="f3 push-content">: 主管還是要蓋啊... 不想負責的話就不蓋退回去重跑</span><span class="push-ipdatetime"> 04/07 08:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skyleo</span><span class="f3 push-content">: 以後基層不蓋章每個主管都比仔細的,那苦的還是基層啊...</span><span class="push-ipdatetime"> 04/07 08:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GFDS</span><span class="f3 push-content">: 柯如果不肯當馬英九 蓋100個章也不會有余文</span><span class="push-ipdatetime"> 04/07 08:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Syffence</span><span class="f3 push-content">: 跟變成余文比起來 所謂苦不過就多做一點事 常識可理解</span><span class="push-ipdatetime"> 04/07 08:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kororoDX</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 04/07 08:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xyz555</span><span class="f3 push-content">: 都只主管蓋章,這樣很不方便,以後不能把錯都推給屬下</span><span class="push-ipdatetime"> 04/07 08:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">soulism</span><span class="f3 push-content">: 越多章,越無人負責</span><span class="push-ipdatetime"> 04/07 08:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">esuang</span><span class="f3 push-content">: 神</span><span class="push-ipdatetime"> 04/07 08:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Syffence</span><span class="f3 push-content">: 這個作法當然不是對柯用的 是要讓中階主管不能卸責</span><span class="push-ipdatetime"> 04/07 08:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">billmin</span><span class="f3 push-content">: 水唷</span><span class="push-ipdatetime"> 04/07 08:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">boogieman</span><span class="f3 push-content">: 一天太誇張 不要超過五天就好 蓋章虛應故事要改的是虛</span><span class="push-ipdatetime"> 04/07 08:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">boogieman</span><span class="f3 push-content">: X一天太誇張 不要超過五天就好 蓋章虛應故事要改的是虛</span><span class="push-ipdatetime"> 04/07 08:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">boogieman</span><span class="f3 push-content">: 應故事 而不是減少蓋章</span><span class="push-ipdatetime"> 04/07 08:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">coffee112</span><span class="f3 push-content">: 多些人蓋最後還不是出包一堆</span><span class="push-ipdatetime"> 04/07 08:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">makapaka</span><span class="f3 push-content">: 扯東扯西，沒人敢回答標哥公文為什麼就可以一天跑完XDDD</span><span class="push-ipdatetime"> 04/07 08:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">makapaka</span><span class="f3 push-content">: ，我們馬政府的公務員這麼精實，柯也只是學人精啊，難道</span><span class="push-ipdatetime"> 04/07 08:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">makapaka</span><span class="f3 push-content">: 法務部的公務員是天才，北市的就比較差？</span><span class="push-ipdatetime"> 04/07 08:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">c510518</span><span class="f3 push-content">: 黨工還真是辛苦</span><span class="push-ipdatetime"> 04/07 08:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BBQ2591</span><span class="f3 push-content">: 等你到中階主管就知道問題在哪 下層的不用畫押就給你擺</span><span class="push-ipdatetime"> 04/07 08:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BBQ2591</span><span class="f3 push-content">: 爛 上層的急著要跟本沒時間審 蓋章是死不蓋也是死</span><span class="push-ipdatetime"> 04/07 08:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iam0718</span><span class="f3 push-content">: 笑死 一天 層層蓋章都不一定層層負責了還這樣搞</span><span class="push-ipdatetime"> 04/07 08:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">makapaka</span><span class="f3 push-content">: 趕快請法務部的優秀公務員來給北市府上課啦，人家可以主</span><span class="push-ipdatetime"> 04/07 08:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sharkimage</span><span class="f3 push-content">: 顏清標要出獄時 蓋章都超快的 顯示根本是人的問題</span><span class="push-ipdatetime"> 04/07 08:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">makapaka</span><span class="f3 push-content">: 動一天跑完，市府還要市長開口，low掉了</span><span class="push-ipdatetime"> 04/07 08:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">guoja</span><span class="f3 push-content">: 黨工辛苦囉 下去領500</span><span class="push-ipdatetime"> 04/07 08:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rockyegg</span><span class="f3 push-content">: 普通件7天 急件3天 特急件1天 什麼公文都要特急???</span><span class="push-ipdatetime"> 04/07 08:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kindqueen</span><span class="f3 push-content">: 我公司簽一份NDA都要三四天了，浪費時間，官僚。</span><span class="push-ipdatetime"> 04/07 08:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">LucAngel</span><span class="f3 push-content">: 哪個腦殘說層層負責，多些人把關比較不會出包的？</span><span class="push-ipdatetime"> 04/07 08:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">heha751019</span><span class="f3 push-content">: 不過一天有點太扯 並不是每件都可以科長決</span><span class="push-ipdatetime"> 04/07 08:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rockyegg</span><span class="f3 push-content">: 取消速別 把所有公文混在一起趕只會出更多問題</span><span class="push-ipdatetime"> 04/07 08:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LucAngel</span><span class="f3 push-content">: 三創、大巨蛋蓋的章夠多了吧，出包了沒？</span><span class="push-ipdatetime"> 04/07 08:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GFDS</span><span class="f3 push-content">: 什麼決策都要像顏這麼快 其實倒楣的還是人民</span><span class="push-ipdatetime"> 04/07 08:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">heha751019</span><span class="f3 push-content">: 例如採購招標一天簽完 不太可能阿</span><span class="push-ipdatetime"> 04/07 08:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dinex</span><span class="f3 push-content">: LucAngel一針見血</span><span class="push-ipdatetime"> 04/07 08:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">markoo</span><span class="f3 push-content">: 騙笑ㄟ 當初一個一個蓋章 就是打算出事找最底層扛</span><span class="push-ipdatetime"> 04/07 08:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pro33342</span><span class="f3 push-content">: 蛆蛆崩潰</span><span class="push-ipdatetime"> 04/07 08:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">markoo</span><span class="f3 push-content">: 現在只蓋主管章 我看那些無所事事的主管就要緊張了</span><span class="push-ipdatetime"> 04/07 08:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chudly</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 04/07 08:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">serica</span><span class="f3 push-content">: 章愈多，愈沒人負責</span><span class="push-ipdatetime"> 04/07 08:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">dixieland999</span><span class="f3 push-content">: 多一些人蓋章不代表比較不會出包...這些人還沒醒?</span><span class="push-ipdatetime"> 04/07 08:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jokebbs</span><span class="f3 push-content">: 一天真的不太可能...承辦人每天要接電話 公文來個10件 每</span><span class="push-ipdatetime"> 04/07 08:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jokebbs</span><span class="f3 push-content">: 件都1天 那承辦人應該死滿慘的...</span><span class="push-ipdatetime"> 04/07 08:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mtcat</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 04/07 08:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hihimen</span><span class="f3 push-content">: 公文是不用審嗎??...</span><span class="push-ipdatetime"> 04/07 08:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hahax52</span><span class="f3 push-content">: 一天~柯P真是把事情想得太美好了~到時就不要苦了基層才好</span><span class="push-ipdatetime"> 04/07 08:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ruokcnn</span><span class="f3 push-content">: 耗時不會出包？ 天真喔幹</span><span class="push-ipdatetime"> 04/07 08:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mtcat</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 04/07 08:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waijr</span><span class="f3 push-content">: 其實市長 局長要負責 不是蓋12個章 沒有人需要負責</span><span class="push-ipdatetime"> 04/07 08:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">h390s091</span><span class="f3 push-content">: 我挺科 可是不挺這政策</span><span class="push-ipdatetime"> 04/07 08:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">musha1989</span><span class="f3 push-content">: 一天超硬…</span><span class="push-ipdatetime"> 04/07 08:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Elfgj</span><span class="f3 push-content">: 加速堅表示:咦可以這樣加了又加嗎?</span><span class="push-ipdatetime"> 04/07 08:59
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">watery725</span><span class="f3 push-content">: 蓋章就叫負責 難不蓋章就代表不負責??? 還不是要看過</span><span class="push-ipdatetime"> 04/07 08:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">watery725</span><span class="f3 push-content">: 說不出包也好笑 拖時間沒效率又常出問題</span><span class="push-ipdatetime"> 04/07 09:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yeap193</span><span class="f3 push-content">: 柯p這樣很好 但不要逼下屬 認真</span><span class="push-ipdatetime"> 04/07 09:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">watery725</span><span class="f3 push-content">: 等到發現問題 文回來已經一個月後 都不用做事了阿</span><span class="push-ipdatetime"> 04/07 09:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pttuui</span><span class="f3 push-content">: 推 效率~!!</span><span class="push-ipdatetime"> 04/07 09:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iamhuei01</span><span class="f3 push-content">: 一樓作秀</span><span class="push-ipdatetime"> 04/07 09:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Nicemaker</span><span class="f3 push-content">: 誰可以幫忙統計黨工的一天啊..</span><span class="push-ipdatetime"> 04/07 09:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">michiyogo</span><span class="f3 push-content">: 承辦人整天跑公文就夠了,其他事效率就低了，況且不是</span><span class="push-ipdatetime"> 04/07 09:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">michiyogo</span><span class="f3 push-content">: 所有事都要最速件啊</span><span class="push-ipdatetime"> 04/07 09:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lawo</span><span class="f3 push-content">: 標題殺人~明明內文就是寫&#34;希望印章量減至四到六個&#34;~變成一天</span><span class="push-ipdatetime"> 04/07 09:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ikenaka</span><span class="f3 push-content">: 猛</span><span class="push-ipdatetime"> 04/07 09:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lawo</span><span class="f3 push-content">: 是記者自己的推測吧!!</span><span class="push-ipdatetime"> 04/07 09:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cms6384</span><span class="f3 push-content">: 馬英九表示:那是簽名章 都不用負責的</span><span class="push-ipdatetime"> 04/07 09:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">saiulbb</span><span class="f3 push-content">: 柯P加油!</span><span class="push-ipdatetime"> 04/07 09:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KUNGFUPANDA</span><span class="f3 push-content">: 黨工也在作秀不是嗎?</span><span class="push-ipdatetime"> 04/07 09:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">einsamkeit</span><span class="f3 push-content">: 一樓好強 XDDD</span><span class="push-ipdatetime"> 04/07 09:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fanlander</span><span class="f3 push-content">: 馬表示：蓋章不關我的事</span><span class="push-ipdatetime"> 04/07 09:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">victoryman</span><span class="f3 push-content">: 最後一段 XDDDDDD</span><span class="push-ipdatetime"> 04/07 09:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dinayogi11</span><span class="f3 push-content">: ya</span><span class="push-ipdatetime"> 04/07 09:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nitro</span><span class="f3 push-content">: 黨工好煩 快滾出ptt</span><span class="push-ipdatetime"> 04/07 09:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">modulation</span><span class="f3 push-content">: Good</span><span class="push-ipdatetime"> 04/07 09:19
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ccas</span><span class="f3 push-content">: 每人蓋章代表層層負責？我有沒有聽錯？</span><span class="push-ipdatetime"> 04/07 09:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">saul17</span><span class="f3 push-content">: 42689.2滾出ptt+1</span><span class="push-ipdatetime"> 04/07 09:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">green0953</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 04/07 09:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pj721911</span><span class="f3 push-content">: UCCU!!叫你公文加快就說會很操，離職啊!爛草莓公務員喔</span><span class="push-ipdatetime"> 04/07 09:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">folkblues</span><span class="f3 push-content">: 應該要依內容重要性分類，像大巨蛋這種幾百億的東西只</span><span class="push-ipdatetime"> 04/07 09:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">folkblues</span><span class="f3 push-content">: 有4個人核章我也覺得很抖</span><span class="push-ipdatetime"> 04/07 09:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">assunny1012</span><span class="f3 push-content">: 少蓋幾個章 少跑幾個點 這樣還操?</span><span class="push-ipdatetime"> 04/07 09:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sannix6311</span><span class="f3 push-content">: 耗較不會出包......？</span><span class="push-ipdatetime"> 04/07 09:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">edward13</span><span class="f3 push-content">: 電子簽核可能半天就搞定了(不看內容的話)</span><span class="push-ipdatetime"> 04/07 09:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">onstar</span><span class="f3 push-content">: 全部公文最速件，就像輕傷、垂死一起送急診，同速度處理。</span><span class="push-ipdatetime"> 04/07 09:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">onstar</span><span class="f3 push-content">: 全部最速件，反而拖累到需要快速處理的，老柯頭昏了嗎？</span><span class="push-ipdatetime"> 04/07 09:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sdyy</span><span class="f3 push-content">: 以前根本只是為了有替死鬼才要蓋那麼多章</span><span class="push-ipdatetime"> 04/07 09:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">louisp</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 04/07 09:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qw99992</span><span class="f3 push-content">: 這有點欠考慮了吧</span><span class="push-ipdatetime"> 04/07 09:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aidsai</span><span class="f3 push-content">: 黨工早 ！！！！</span><span class="push-ipdatetime"> 04/07 09:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gihunter</span><span class="f3 push-content">: 蓋章通常都是承辦人負責 責任至少佔一半 單位主管也是</span><span class="push-ipdatetime"> 04/07 09:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gihunter</span><span class="f3 push-content">: 差不多的責任 因為是他決行的 中間那些章基本上只是改文</span><span class="push-ipdatetime"> 04/07 09:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxxx9659</span><span class="f3 push-content">: 很好阿 去除一些跑龍套的章 給真正要負責的人蓋章就好</span><span class="push-ipdatetime"> 04/07 10:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xxxx9659</span><span class="f3 push-content">: 公文最困難的就是把人湊齊 把章蓋一蓋上呈</span><span class="push-ipdatetime"> 04/07 10:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tsukasaxx</span><span class="f3 push-content">: 一樓帶風向失敗，人民選他當市長就是要看執政能力啊!!</span><span class="push-ipdatetime"> 04/07 10:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tsukasaxx</span><span class="f3 push-content">: 不然選他做啥？你說說啊~一樓說話啊~</span><span class="push-ipdatetime"> 04/07 10:03
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">traipse</span><span class="f3 push-content">: 噓簽名檔 騜愛被統 全天下皆知 不要拿來亂比</span><span class="push-ipdatetime"> 04/07 10:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">traipse</span><span class="f3 push-content">: 柯說的是:政治上我是台灣人</span><span class="push-ipdatetime"> 04/07 10:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">blacktom</span><span class="f3 push-content">: 認真覺得一天太快，又不是小學生開會</span><span class="push-ipdatetime"> 04/07 10:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blacktom</span><span class="f3 push-content">: 不過八天太久</span><span class="push-ipdatetime"> 04/07 10:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mogli</span><span class="f3 push-content">: 知道柯P用意，但公文需時間整資料和各部會協商，不是每個</span><span class="push-ipdatetime"> 04/07 10:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mogli</span><span class="f3 push-content">: 馬上有答案，承辦人也不會只有公文業務要作，這樣一天24小</span><span class="push-ipdatetime"> 04/07 10:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mogli</span><span class="f3 push-content">: 時不夠用。</span><span class="push-ipdatetime"> 04/07 10:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">judo1127</span><span class="f3 push-content">: 黨工不然你覺得要多久?</span><span class="push-ipdatetime"> 04/07 10:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pccheni</span><span class="f3 push-content">: 黨工做秀</span><span class="push-ipdatetime"> 04/07 10:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BUKU</span><span class="f3 push-content">: 會議紀錄 要2小時內出來  那應該要請打字速度快的約聘吧</span><span class="push-ipdatetime"> 04/07 10:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mogli</span><span class="f3 push-content">: 偶有最速件是放下其他所有事才可以一天內完成啊! 大條一點</span><span class="push-ipdatetime"> 04/07 10:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mogli</span><span class="f3 push-content">: 主管不在代理還不敢馬上蓋勒。</span><span class="push-ipdatetime"> 04/07 10:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BUKU</span><span class="f3 push-content">: 就一般人民哪可能有這速度，每個人員都書紀官喔...</span><span class="push-ipdatetime"> 04/07 10:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BUKU</span><span class="f3 push-content">: 重要的三天吧 。 你一天北PCHOME還快了 到時候就別出包..</span><span class="push-ipdatetime"> 04/07 10:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mogli</span><span class="f3 push-content">: 事情本來就有輕重緩急，這樣等於所有公文都叫最速件。</span><span class="push-ipdatetime"> 04/07 10:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Neno</span><span class="f3 push-content">: 承辦人是只有會議紀錄要辦?都不用出外會勘驗收寫這些紀錄嗎?</span><span class="push-ipdatetime"> 04/07 10:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mogli</span><span class="f3 push-content">: 公文本身就有分級和規定時程，落實就很好了。</span><span class="push-ipdatetime"> 04/07 10:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Neno</span><span class="f3 push-content">: 還有一堆公文要回、轉發、1999、市政信箱擬稿，搞屁啊</span><span class="push-ipdatetime"> 04/07 10:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wayaba</span><span class="f3 push-content">: 會議記錄2小時沒問題 又不是逐字稿 也不包含呈核的時間</span><span class="push-ipdatetime"> 04/07 10:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orz0928</span><span class="f3 push-content">: 回歸正常當政績 憑啥跑8天說放假 你沒代理人嗎 沒手機嗎</span><span class="push-ipdatetime"> 04/07 10:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Neno</span><span class="f3 push-content">: 遇到初驗，工程不用出去驗個一個月嗎? 一個月的公文照來誰辦</span><span class="push-ipdatetime"> 04/07 10:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ShallWe108</span><span class="f3 push-content">: 水</span><span class="push-ipdatetime"> 04/07 10:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FRX</span><span class="f3 push-content">: 當然是主管要負責蓋章審核 都推給基層公務員沒道理</span><span class="push-ipdatetime"> 04/07 10:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">michiyogo</span><span class="f3 push-content">: 不同看法就是黨工......柯是聖人，講不得嗎？</span><span class="push-ipdatetime"> 04/07 10:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jerrylin</span><span class="f3 push-content">: 這樣會讓很多人失業啦</span><span class="push-ipdatetime"> 04/07 10:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">baiya</span><span class="f3 push-content">: 推拉  主管要蓋章負責 這樣就沒有余文2.0了 水母會怕怕的</span><span class="push-ipdatetime"> 04/07 10:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnkofe</span><span class="f3 push-content">: 估計是誰估計的啊? 不是只有最速件才一天嗎</span><span class="push-ipdatetime"> 04/07 10:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Jupiter1129</span><span class="f3 push-content">: 柯P又沒說要縮短到一天...</span><span class="push-ipdatetime"> 04/07 10:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Xavierk</span><span class="f3 push-content">: 純需簽名擋.. 柯柯你給他用綠色...?</span><span class="push-ipdatetime"> 04/07 10:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GABA</span><span class="f3 push-content">: 能傳（ㄊㄨㄟ）球（ㄒ一ㄝˋ）的人變少惹</span><span class="push-ipdatetime"> 04/07 10:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GODg8</span><span class="f3 push-content">: zz</span><span class="push-ipdatetime"> 04/07 10:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DLHZ</span><span class="f3 push-content">: 層層把關...當大家都智障？</span><span class="push-ipdatetime"> 04/07 10:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ECZEMA</span><span class="f3 push-content">: 不推柯…</span><span class="push-ipdatetime"> 04/07 10:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fujiiyakumo</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 04/07 10:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dryadg27724</span><span class="f3 push-content">: 水</span><span class="push-ipdatetime"> 04/07 10:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DreamYeh</span><span class="f3 push-content">: 美河市公文蓋了幾個章？結果......</span><span class="push-ipdatetime"> 04/07 10:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lovegloria</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 04/07 10:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">micky5521</span><span class="f3 push-content">: 以前就這樣慢慢拖還不是出一堆包</span><span class="push-ipdatetime"> 04/07 10:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Jupiter1129</span><span class="f3 push-content">: 拖愈久油水愈多阿...</span><span class="push-ipdatetime"> 04/07 10:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">markban</span><span class="f3 push-content">: 柯屁這樣是在自找麻煩，有些東西不能快</span><span class="push-ipdatetime"> 04/07 11:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a3504121</span><span class="f3 push-content">: 章比較重要的是會計，出納這些而已吧</span><span class="push-ipdatetime"> 04/07 11:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qphone</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 04/07 11:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lovelebron24</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 04/07 11:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chinafree</span><span class="f3 push-content">: 又有人要哭哭了！蓋章好累！</span><span class="push-ipdatetime"> 04/07 11:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Moratti</span><span class="f3 push-content">: 推 KMT狗官犯法都推給基層</span><span class="push-ipdatetime"> 04/07 11:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">silentocean</span><span class="f3 push-content">: 蓋章不是問題...上級一直亂退公文才是問題吧...</span><span class="push-ipdatetime"> 04/07 11:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">silentocean</span><span class="f3 push-content">: 而且出包的是上級，結果改革制度反而欺負基層，對嗎?</span><span class="push-ipdatetime"> 04/07 11:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mars1396</span><span class="f3 push-content">: PCHOME</span><span class="push-ipdatetime"> 04/07 11:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alexjeter</span><span class="f3 push-content">: 1F HI</span><span class="push-ipdatetime"> 04/07 11:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kslxd</span><span class="f3 push-content">: 在我任內也有規劃減少蓋章的數量 但是</span><span class="push-ipdatetime"> 04/07 11:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arcc</span><span class="f3 push-content">: 好嗡阿</span><span class="push-ipdatetime"> 04/07 11:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ebeta</span><span class="f3 push-content">: 公務員草莓們又要爆發離職潮囉</span><span class="push-ipdatetime"> 04/07 11:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tomwu770926</span><span class="f3 push-content">: 1樓黨工太血尿了ㄏㄏ</span><span class="push-ipdatetime"> 04/07 11:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">paris930</span><span class="f3 push-content">: 一樓先去開電視，作秀馬來了</span><span class="push-ipdatetime"> 04/07 11:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shihehe73</span><span class="f3 push-content">: 1樓好累</span><span class="push-ipdatetime"> 04/07 11:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hoks</span><span class="f3 push-content">: 其他單位可以比照辦理嗎?不然一張紙蓋了好幾十個章</span><span class="push-ipdatetime"> 04/07 11:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hoks</span><span class="f3 push-content">: 時間全部浪費在送公文上</span><span class="push-ipdatetime"> 04/07 11:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stevely</span><span class="f3 push-content">: 1F 還沒6:30就上班了 黨工真的很辛苦</span><span class="push-ipdatetime"> 04/07 12:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kgtmac1</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 04/07 12:02
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jessica418</span><span class="f3 push-content">: 笑了 這就不推</span><span class="push-ipdatetime"> 04/07 12:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">judogirl</span><span class="f3 push-content">: 蓋章時間只差五分鐘的話 應該是沒什麼把關效果吧......</span><span class="push-ipdatetime"> 04/07 12:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xfirex</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 04/07 12:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">GaryMatthews</span><span class="f3 push-content">: 余文要失業了</span><span class="push-ipdatetime"> 04/07 12:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hyperionii</span><span class="f3 push-content">: 喊操，幹有人逼你當公務員嗎？</span><span class="push-ipdatetime"> 04/07 12:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abc1236514</span><span class="f3 push-content">: 1樓三十秒令人佩服....我是說閱讀速度</span><span class="push-ipdatetime"> 04/07 12:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">psychicaler</span><span class="f3 push-content">: 學校的也是，蓋了十幾個章，只有會計室在審查</span><span class="push-ipdatetime"> 04/07 12:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">psychicaler</span><span class="f3 push-content">: 有夠費時又費資源</span><span class="push-ipdatetime"> 04/07 12:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lina7inverse</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 04/07 12:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mist0310</span><span class="f3 push-content">: 根本帥</span><span class="push-ipdatetime"> 04/07 12:57
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">appleIII</span><span class="f3 push-content">: 在工廠最討厭就是人很多 文件總是要一堆人蓋章</span><span class="push-ipdatetime"> 04/07 12:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">traipse</span><span class="f3 push-content">: XD</span><span class="push-ipdatetime"> 04/07 12:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sylviashy</span><span class="f3 push-content">: 最好蓋那麼多章就不會出包</span><span class="push-ipdatetime"> 04/07 13:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">raccoonlincu</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 04/07 13:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sygnuser</span><span class="f3 push-content">: 很好 政府的流程就應該企業化</span><span class="push-ipdatetime"> 04/07 13:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">raccoonlincu</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 04/07 14:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">godshibainu</span><span class="f3 push-content">: 不爽的人別當公務員 想去的人有的是</span><span class="push-ipdatetime"> 04/07 15:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">akay08</span><span class="f3 push-content">: 很棒，這才是效率，這樣就喊操，草莓公務員</span><span class="push-ipdatetime"> 04/07 15:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">saber102</span><span class="f3 push-content">: 呵呵，拭目以待</span><span class="push-ipdatetime"> 04/07 16:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SweetLee</span><span class="f3 push-content">: 兩個和尚挑水喝 三個和尚沒水喝 越多章越容易出包</span><span class="push-ipdatetime"> 04/07 16:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Lighty</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 04/07 17:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">JoeStrummer</span><span class="f3 push-content">: 為了博效率美名，什麼都來? 你的MG149蓋了11個章呢!</span><span class="push-ipdatetime"> 04/07 17:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">traipse</span><span class="f3 push-content">: 沒穿褲子的回糞坑去</span><span class="push-ipdatetime"> 04/07 17:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">traipse</span><span class="f3 push-content">: MG149跟行政效率沒關好嗎</span><span class="push-ipdatetime"> 04/07 17:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a09374567</span><span class="f3 push-content">: 8天太久 沒錯 但你他媽一天 想搞死人?有夠扯 這我推不</span><span class="push-ipdatetime"> 04/07 18:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a09374567</span><span class="f3 push-content">: 下去</span><span class="push-ipdatetime"> 04/07 18:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">traipse</span><span class="f3 push-content">: 蓋個章有什麼好搞死人？草莓嗎</span><span class="push-ipdatetime"> 04/07 18:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ewqewq123123</span><span class="f3 push-content">: つ・∀・)つ ~用gibhub大家一起編輯審查公文嗎？</span><span class="push-ipdatetime"> 04/07 20:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">angelae086</span><span class="f3 push-content">: 朱倫可不可以學一下……落後很多捏</span><span class="push-ipdatetime"> 04/07 22:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">newstarisme</span><span class="f3 push-content">: 讚</span><span class="push-ipdatetime"> 04/07 23:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rosesonata</span><span class="f3 push-content">: 章蓋多點比較不會出包?我看是比較好找替死鬼吧</span><span class="push-ipdatetime"> 04/07 23:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sharkimage</span><span class="f3 push-content">: 想到之前送公文 流浪超久才回覆 超沒效率</span><span class="push-ipdatetime"> 04/08 07:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">freewind260</span><span class="f3 push-content">: 經過那麼多層共犯結構才夠大夠穩啊^^</span><span class="push-ipdatetime"> 04/08 23:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">koko0</span><span class="f3 push-content">: 臺大醫的高度看世界，每件文都是急診病患</span><span class="push-ipdatetime"> 04/09 18:13
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1428359140.A.34B.html?cacheKey=2052-1360689185&offset=43365&offset-sig=892f68b199656613fe1d865923959a5d92c5bd39" data-longpollurl="/v1/longpoll?id=cedcdf5de8771274f246df17d8222f1b81ee9fc9" data-offset="43365"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+    </body>
+</html>

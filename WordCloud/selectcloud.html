@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
+		<title>My Website</title>
+		
+		</head>
+
+	<body>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#2dbutton').click(function(){
+			$('iframe').attr("src","2dwordcloud/2dwordcloud.html");
+			});
+		});
+		$(document).ready(function(){
+			$('#3dbutton').click(function(){
+			$('iframe').attr("src","3dwordcloud/3dwordcloud.html");
+			});
+		});
+		</script>
+	<button id="3dbutton" size="200" >3D文字雲</button>
+	<button id="2dbutton" >2D文字雲</button>
+	
+	<div id="changecloud">
+	<iframe    src="3dwordcloud/3dwordcloud.html" width="550" height="500" scrolling="no"></iframe>
+	</div>
+	<!-- <div id="2dbox">
+	<iframe    src="./2dwordcloud/2dwordcloud.html" width="550" height="500" scrolling="no"></iframe>
+		</div> -->
+	
+	</body>
+</html>
+<!--template.html-->

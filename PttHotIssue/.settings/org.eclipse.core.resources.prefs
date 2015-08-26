@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/DemoCache.py=utf-8
+encoding//src/HotIssue/models.py=utf-8
+encoding//src/HotIssue/views.py=utf-8
+encoding//src/PttHotIssue/settings.py=utf-8
+encoding//src/PttHotIssue/urls.py=utf-8
+encoding//src/SqlLinker.py=utf-8
+encoding//src/WebApi/Ajaxes.py=utf-8
+encoding//src/WebApi/urls.py=utf-8
+encoding//src/WebApi/views.py=utf-8
+encoding//src/WordCutLibs/HotIssueGroup.py=utf-8
+encoding//src/WordCutLibs/wordCloudlib.py=utf-8
+encoding//src/testing.py=utf-8
+encoding//src/word_cloud_test.py=utf-8

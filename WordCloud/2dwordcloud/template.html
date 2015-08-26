@@ -1,0 +1,41 @@
+<html lang="zh_CN">
+    <head>
+        <meta charset="UTF-8">
+        <title>PyTagCloud</title>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script src="wordcloud.js"></script>
+		<style type="text/css">
+            body{
+                background-color: white;
+            }
+
+            a.tag{
+                font-family: 'SimHei', 'Sans';
+                text-decoration: none;
+            }
+
+            li.cnt{
+                overflow: hidden;
+                position: absolute;
+                display: block;
+            }
+
+            ul.cloud{
+                position: relative;
+                display: block;
+                width: ${width}px;
+                height: ${height}px;
+                overflow: hidden;
+                margin: 0;
+                padding: 0;
+                list-style: none;
+            }
+            $css
+        </style>
+    </head>
+    <body>
+        <ul class="cloud">
+            $tags
+        </ul>
+    </body>
+</html>

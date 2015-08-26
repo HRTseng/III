@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		{% load staticfiles %}
+		<link rel="stylesheet"href="{% static 'css/Issue.css' %}">
+		<link rel="stylesheet"href="../static/css/Issue.css">
+
+
+		
+        <!--   <script src="http://code.jquery.com/jquery-1.11.2.min.js" type="text/javascript"></script> -->
+        <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script src="//www.goat1000.com/jquery.tagcanvas.min.js" type="text/javascript"></script>
+		<script src="//www.goat1000.com/tagcanvas.min.js" type="text/javascript"></script>
+		
+	
+		
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+		{% load staticfiles %}
+		<script src="{% static 'javascript/emotion.js' %}"></script>
+		
+		<script type="text/javascript">
+		/**/
+		 window.onload = function() {
+	            try {
+	              TagCanvas.Start('myCanvas','cloud',{
+	            	  textFont: null,
+	            	  textColour: null,//'pink', //使用自訂的文字顏色 (依 li標籤)
+                      weight:true,
+                      
+                      //weightMode:"both",
+	            	  //textHeight: 35,   //定義最大字體大小
+	                  //outlineColour: 'yellow',
+	                   
+	                  clickToFront:true,
+	                 
+	                 /*  weightGradient:{
+                            0:   'red',            // red
+                            0.3:'orange',
+                            0.5: 'green',        
+                            0.8: 'gray',
+                            1:   'black' // black, but 90% transparent
+                           },  */
+	                   
+	                    dragControl:true,
+	                
+	                    weightFrom:null,
+	                    depth:0.3,
+	                    maxSpeed: 0.05,
+	                    outlineMethod:"size",
+	                    initial:[-0.3,-0.3]
+                        });
+	              
+	            } catch(e) {
+	              // something went wrong, hide the canvas container
+	              document.getElementById('myCanvasContainer').style.display = 'none';
+	            }
+	          };
+	         
+	    </script>
+		
+		<title>MY CONTENT</title>
+	</head>
+	
+	<body style="background-color:white;">		
+	   <script>
+	   /*
+	   $.ajax({
+	         method: "get",
+	         
+	         url: "emotion_{{article.art_id}}",
+	        
+	       })
+	       .done(push_pie)
+	        ;
+	   */
+	   google.load("visualization", "1", {packages:["corechart"]});
+	   google.setOnLoadCallback(drawChart);
+	   function drawChart() {
+		   
+		   json = $.ajax({
+	             	             
+	             url: "/dajax/emotion",
+	             method: "get",
+	             data :{art_id :{{article.art_id}}},
+	             
+	             dataType:"json",
+                 async: false,
+	           })
+	           .responseText	           
+	           ;
+		  json = JSON.parse(json);
+
+	      var dataarray = [
+	                       ['正反推文比', 'up/down vote percentage'],
+	                       ['推',     json.upvote],
+	                       ['→',     json.normal],
+	                       ['噓',      json.downvote],
+	                       
+	                     ];
+	     var data = google.visualization.arrayToDataTable(dataarray);
+	     
+	     var options = {
+	             title: '正反推噓文',
+	             titleTextStyle:{ color: 'white', 
+	                              fontName: '微軟正黑體',  
+	                              fontSize: 45,
+	                              bold: true,},
+	             is3D: true,
+	             backgroundColor:'black',
+	             chartArea:{left:50,top:130,width:'100%',height:'100%'},
+	             fontSize:20,
+	             fontName:'微軟正黑體',
+	             pieSliceTextStyle:{color:'white', fontName: 'Arial', fontSize: 20},
+	             //legend.textStyle:{color: 'white'},
+	             legend:{position:'right',textStyle: {color: 'white', fontSize: 27}},
+	           };
+
+	     
+	     
+	     
+	     var chart = new google.visualization.PieChart(document.getElementById('piechart_3d'));
+	     chart.draw(data, options);
+	   }
+	   
+	   </script>
+	
+	
+		<div id="h1">
+           <a id="word" href="/index/"><span>Ptt</span>&nbsp;Public Sentiment</a> 
+           
+        </div>
+        {% load staticfiles %}
+        <img id="pic"src="{% static 'images\header-photo.jpg' %}">
+        
+        <div id="container" >
+                
+            
+            
+            <div id="menu"  >        
+               
+                <h1 style="color:white;text-align:center;background-color:blue;margin-left:5%;margin-top:0%;margin-right:2%;">文章內容</h1>
+                <div id="content" class="article" style="height:91%;overflow-y: scroll;overflow-x: hidden;
+                        word-break: break-all;font-size:18px;margin-left:5%;width:93%;" >
+                 <pre sytle="font-family:'細明體';">  
+{{article}}
+                </pre>
+                </div>
+            </div>
+            <div id="sidebar" >                
+                              
+	                <div id="content" style="height:35%;width:45%;" >
+                        <div id="piechart_3d" style="height:100%;width:100%;"></div>                             
+                    </div>
+                    
+                    <div id="content" style="height:35%;width:45%;" >
+                        <div style="float: left;height:98%;width:100%;/* background-color:#008080; */">
+                            
+                            {{wds|safe}}            
+                        </div>                    
+                    </div>
+                   
+                <div id="content" style="height:30%;width:96%;" >
+                    <h1 style="color:white;text-align:center;background-color:blue;">關聯新聞</h1>
+                    {% for art in related_news %}
+                        <div >
+                                <div class="topic"><a class="topic" href="art_{{art.art_id}}"> {{art.title}} </a></div>                           
+                         </div>    
+                    {% endfor %}
+                    
+                </div>
+                <div id="content" style="height:30%;width:96%;">
+                <h1 style="color:white;text-align:center;background-color:blue;">其他熱門新聞</h1>
+                    <div>                                      
+		               {%  for hotIssue in hotIssues %}		                  
+		                   <div >		                      
+		                      {% if hotIssue.art_id != article.art_id  %}
+		                      <div class="topic"><a class="topic" href="art_{{hotIssue.art_id}}"> {{hotIssue.title}} </a></div>
+		                      {% else %}
+		                      <div class="topic" style="background-color:blue;border:solid yellow 2px;color:#ccc;"> {{hotIssue.title}} </div>
+		                      {% endif %}                           
+		                   </div>                   
+		               {%  endfor %}
+                    
+                    </div>
+                </div>
+            </div>
+        <div id="footer">
+	        <div id=footer-about>
+	               <h2>ABOUT US</h2>
+	               <p>We are iii-ZB101 </p>
+	               <p> group2.</p>
+	                 
+	        </div>
+	        <div id=footer-contact >
+	               <h2>CONTACT</h2>
+	               <p>Tel:03-4257387</p>
+	               <p>Address:320桃園市中壢區中大路300號</p>
+	                <div >
+	                    <a href="#"><img src="../static/images/social03.png" width="32" height="32" style="float:left;" /></a>
+	                    <a href="#"><img src="../static/images/social01.png" width="32" height="32"  style="margin-left:3%;float:left;" /></a>
+	                    <a href="#"><img src="../static/images/social04.png" width="32" height="32" style="margin-left:3%;float:left;" /></a>
+	                    <a href="#"><img src="../static/images/social02.png" width="32" height="32" style="margin-left:3%;float:left;"  /></a>
+	                 </div> 
+	        </div>
+	                   
+	        </div>
+        <div  style="color:gray;text-align:center;">
+                          <p>Copyright&copy;2015 All rights reserved. Design by ZB101 group2.</p>
+        </div>
+        </div>
+    </body>
+</html>
+<!--template.html-->

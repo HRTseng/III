@@ -1,0 +1,74 @@
+
+a.tag{
+     font-family: 'PMingLiU', 'Sans';
+     text-decoration: none;
+}
+
+li.cnt{
+    overflow: hidden;
+    position: absolute;
+    display: block;
+}
+
+ul.cloud{
+	 position: relative;
+	 display: block;
+	 width: 514px;
+	 height: 460.0px;
+	 overflow: hidden;
+	 margin: 0;
+	 padding: 0;
+     list-style: none;
+ }
+       
+ li.cn  a{
+    color :'white';
+}
+            
+      a.c10{color:#5ca63f;}                         
+	  a.c10:hover{color:#42772d;}
+	  
+	  a.c11{color:#4de27d;}         
+	  a.c11:hover{color:#1ebb51;}
+	  
+	  a.c15{color:#477e1d;}                         
+	  a.c15:hover{color:#335a15;}
+	  
+	  a.c13{color:#e7d9f1;}                         
+	  a.c13:hover{color:#ab79cf;}
+	  
+	  a.c9{color:#8298de;}                         
+	  a.c9:hover{color:#3458c8;}
+	  
+	  a.c8{color:#e0dc8d;}                         
+	  a.c8:hover{color:#cbc33b;}
+	  
+	  a.c14{color:#39c3b3;}                         
+	  a.c14:hover{color:#298c80;}
+	  
+	  a.c12{color:#f1f9f4;}                         
+	  a.c12:hover{color:#8ed1a7;}
+	  
+	  a.c3{color:#4440f0;}                         
+	  a.c3:hover{color:#130fcb;}
+	  
+	  a.c2{color:#2354e6;}                         
+	  a.c2:hover{color:#1339ab;}
+	  
+	  a.c1{color:#acabea;}                         
+	  a.c1:hover{color:#514ed4;}
+	  
+	  a.c0{color:#dcc17e;}                         
+      a.c0:hover{color:#c39b35;}
+      
+      a.c7{color:#241e7c;}                         
+      a.c7:hover{color:#1a1659;}
+      
+      a.c6{color:#699a66;}                         
+      a.c6:hover{color:#4b6f49;}
+      
+      a.c5{color:#f23b47;}                         
+      a.c5:hover{color:#cb0d19;}
+      
+      a.c4{color:#e3e5df;}                         
+      a.c4:hover{color:#a3ac98;}
